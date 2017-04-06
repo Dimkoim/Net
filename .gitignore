@@ -1,0 +1,6 @@
+Data/
+Results/
+Scripts/
+*.db
+*.csv
+src/Net/
